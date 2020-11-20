@@ -1,0 +1,15 @@
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\bin\Debug\Liseur sous titres.exe.config
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\bin\Debug\Liseur sous titres.exe
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\bin\Debug\Liseur sous titres.pdb
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\obj\Debug\Liseur sous titres.csprojAssemblyReference.cache
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\obj\Debug\MainWindow.g.cs
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\obj\Debug\App.g.cs
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\obj\Debug\Liseur sous titres_MarkupCompile.cache
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\obj\Debug\Liseur sous titres_MarkupCompile.lref
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\obj\Debug\MainWindow.baml
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\obj\Debug\Liseur sous titres.g.resources
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\obj\Debug\Liseur_sous_titres.Properties.Resources.resources
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\obj\Debug\Liseur sous titres.csproj.GenerateResource.cache
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\obj\Debug\Liseur sous titres.csproj.CoreCompileInputs.cache
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\obj\Debug\Liseur sous titres.exe
+D:\Documents\..Cours\c#\Liseur sous titres\Liseur sous titres\obj\Debug\Liseur sous titres.pdb

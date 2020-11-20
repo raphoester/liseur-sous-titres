@@ -1,0 +1,31 @@
+﻿
+    
+    <Window 
+    x:Class="Liseur_sous_titres.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+    xmlns:local="clr-namespace:Liseur_sous_titres"
+    mc:Ignorable="d"
+    WindowState="Maximized" 
+    Title="MainWindow" Height="846" Width="1385">
+
+    <StackPanel Grid.Row="0">
+        <Viewbox>
+        <MediaElement x:Name ="Film" Source=" " Width="auto" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+        </Viewbox>
+        <TextBlock
+        x:FieldModifier="public"
+        x:Name="sous_titre"   
+        Foreground="Black" 
+        FontSize="20"
+        Width="500"
+        TextAlignment="Center"
+        TextWrapping="Wrap"
+        Padding="0,0,0,10"
+        />
+    </StackPanel>
+    
+</Window>
